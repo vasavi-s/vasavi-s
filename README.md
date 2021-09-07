@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @vasavi-s
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there. I'm Vasavi 👋
+
+
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning front end devlopment
+- 💞️ I’m looking to collaborate on project in web development
+- 📫 How to reach me
+:office: [LinkedIn](https://www.linkedin.com/in/vasavi-shanmugam-0251621b0/)
 
 <!---
 vasavi-s/vasavi-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
