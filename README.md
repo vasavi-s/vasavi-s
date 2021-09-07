@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Vasavi's github stats](https://github-readme-stats.vercel.app/api?username=vasavi-s&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasavi-s)](https://github.com/anuraghazra/github-readme-stats)
