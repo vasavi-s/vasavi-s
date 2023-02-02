@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Full stack devlopment
+- 🌱 I’m currently learning Full stack devlopment and cloud computing
 - 💞️ I’m looking to collaborate on project in web development
 - 📫 How to reach me
   - :office: [LinkedIn](https://www.linkedin.com/in/vasavi-shanmugam-0251621b0/)
